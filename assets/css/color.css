@@ -1,0 +1,25 @@
+.c0 {
+	background-color:rgb(83, 216, 94) ;
+}
+.c1 {
+	background-color:rgb(255, 210, 45) ;
+}
+.c2 {
+	background-color:#1EA896 ;
+}
+.c3 {
+	background-color: #e84118;
+}
+.c4 {
+	background-color: #008DD5; 
+}
+
+
+.ts{
+	font-family: Nunito;
+	font-style: oblique;
+	font-weight: bold;
+	color: white;
+	text-shadow: #000 1px 1px 1px;
+    -webkit-font-smoothing: antialiased;
+}
